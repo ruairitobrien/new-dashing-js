@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "new-dashing-js": "~{{= dashing.version }}"
+    "newer-dashing-js": "~{{= dashing.version }}"
   },
   "engine": "node >= 0.10"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "new-dashing-js",
-  "description": "A fork of dashing-js to bring dependencies up to date.",
+  "name": "newer-dashing-js",
+  "description": "Custom thing. Don't use!!!!!",
   "author": "A mix of people",
   "version": "2.0.1",
   "license": "MIT",
@@ -39,7 +39,7 @@
     "dashboard",
     "web"
   ],
-  "repository": "git://github.com/4xel/new-dashing-js",
+  "repository": "git://github.com/ruairitobrien/newer-dashing-js",
   "main": "index",
   "bin": {
     "dashing-js": "./bin/dashing-js"

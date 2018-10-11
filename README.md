@@ -1,16 +1,14 @@
-# new-dashing-js
+# newer-dashing-js
 
 A fork of the port of [Dashing](http://shopify.github.io/dashing/) to node.js in attempt to revive the project with updated dependencies.
 
-[![NPM version](https://badge.fury.io/js/new-dashing-js.png)](http://badge.fury.io/js/new-dashing-js)
-[![Dependency Status](https://david-dm.org/4xel/new-dashing-js.png)](https://david-dm.org/4xel/new-dashing-js)
 
 ## Getting Started
 
 1. Install from npm
 
 ```shell
-$ npm install -g new-dashing-js
+$ npm install -g newer-dashing-js
 ```
 
 2. Generate a new project
