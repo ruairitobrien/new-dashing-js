@@ -17,7 +17,7 @@
 
   Batman.config = {
     pathPrefix: '/',
-    viewPrefix: 'views',
+    viewPrefix: 'uranium/views',
     fetchRemoteViews: true,
     usePushState: false,
     minificationErrors: true
